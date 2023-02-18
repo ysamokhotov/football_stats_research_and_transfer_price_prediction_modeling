@@ -12,3 +12,7 @@
 
 ## **Libraries:**
 *pandas, numpy, matplotlib, seaborn, plotly, tqdm, requests, bs4, fake_useragent*
+
+___
+**Important**: this project is currently is under process.
+___
